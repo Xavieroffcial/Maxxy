@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6283862006229', '️One', true],
+  ['6283862006229', '️Two', true],
+  ['6283862006229', '️Three', true],
+  ['6283862006229', '️Four', true],
+  ['6283862006229', '️Five', true],
+  ['6283862006229', '️Six', true],
+  ['6283862006229', '️Seven', true],
+  ['6283862006229', '️Eight', true],
+  ['6283862006229', '️Nine', true],
+  ['6283862006229', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -89,22 +89,22 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6285811441020'
+global.nomorown = '6283862006229'
+global.namebot = 'Filo BOT'
+global.nameown = '「 Shiro Store」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 あ⁩ 」'
+global.wm = '                「 Filo BOTあ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ Filo BOT'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
 global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg'
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.imagebot = 'https://telegra.ph/file/614d232138171977d7b34.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg','https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg','https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.stickauth = `☂︎ Filo BOT 乂 Shiro Store\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Shiro'
+global.author = 'Filo BOT 乂 Shiro store'
 global.multiplier = 10
 
 /*Pesan*/
@@ -449,21 +449,21 @@ global.eror = '*ᴇʀᴏʀʀ!*'
 global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
 global.webs = 'https://lynk.id/kahfi.xd'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1jpg'
+global.gcwangsaf = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.dana = '085962734007'
+global.pulsa = '083862006229'
 global.trakteer = ''
 global.paypal = ''
-global.gopay = ''
-global.pdana = '085380166282'
-global.povo = ''
-global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.gopay = '083862006229'
+global.pdana = '085962734007'
+global.povo = '083862006229'
+global.pgopay = '083862006229'
+global.ppulsa = '083862006229'
+global.ppulsa2 = '083862006229'
 global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*Emoji*/
